@@ -1,6 +1,6 @@
 #_*_coding:utf_8_*_
 #Given a 32-bit signed integer,reverse digits of an integer
-# another solution: usr str()=>int()
+# another solution: use str()=>int()
 class Solution:    
     def reverse(self, x):
         """
